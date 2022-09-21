@@ -12,3 +12,7 @@ $("div").click(function (event) {
 });
 //w3:
 $("div").prop('onclick', null).off('click');
+//w4:
+$('div').prop("disabled", true) 
+//w5:
+ $('div').parent().remove()
