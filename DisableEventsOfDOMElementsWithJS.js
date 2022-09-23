@@ -16,3 +16,5 @@ $("div").prop('onclick', null).off('click');
 $('div').prop("disabled", true) 
 //w5:
  $('div').parent().remove()
+//w6:
+ $('div').css("pointer-events", "none");
