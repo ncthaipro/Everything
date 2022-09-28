@@ -1,3 +1,4 @@
+//https://stackoverflow.com/questions/54997224/formdata-append-json
 const data = JSON.stringify({
     description: 'description',
 })
